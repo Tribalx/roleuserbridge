@@ -14,10 +14,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*",
-        "zf-commons/zfc-user": "1.*",
-        "bjyoungblood/bjy-authorize": "1.*"
     },
     "autoload": {
         "psr-0": {
