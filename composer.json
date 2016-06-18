@@ -1,11 +1,11 @@
 {
-    "name": "tribalx/roleuserbridge",
+    "name": "darkmatus/roleuserbridge",
     "description": "ZfcUser/BjyAuthorize Bridge for auto-adding User to the user_role_table from BjyAuthorize.",
     "type": "library",
     "keywords": [
         "zf2"
     ],
-    "homepage": "https://github.com/tribalx/roleuserbridge",
+    "homepage": "https://github.com/darkmatus/roleuserbridge",
     "authors": [
         {
             "name": "Darkmatus",
