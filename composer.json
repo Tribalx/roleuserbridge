@@ -1,5 +1,5 @@
 {
-  "name" : "tribalx/roleuserbridge",
+  "name" : "darkmatus/roleuserbridge",
   "description" : "ZfcUser/BjyAuthorize Bridge for auto-adding User to the user_role_table from BjyAuthorize.",
   "keywords" : [ "zf2" ],
   "autoload" : {
