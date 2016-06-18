@@ -37,10 +37,10 @@ class Module implements AutoloaderProviderInterface,
     {
         return array(
             'invokables' => array(
-                'zfcuser_user_service' => 'RoleUserBridge\Service\User',
+                //'zfcuser_user_service' => 'RoleUserBridge\Service\User',
             ),
             'factories' => array(
-
+                'zfcuser_user_service' => 'RoleUserBridge\Factory\User',
                 'user_role_mapper' => function ($sm) {
                     $options = $sm->get('zfcuser_module_options');
                     $config = $sm->get('config');
